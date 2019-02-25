@@ -4,9 +4,9 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  Welcome to the official website of WARC Meadville's favorite radio show Chill JamZ.
+  Chill JamZ is made up of 3 best friends from Allegheny College who enjoy making
+  people laugh and playing good music. We construct episodes of our show on the spot
+  and provide entertainment through our improvised thoughts. To learn more, click the
+  [About](https://chilljamz.netlify.com/about) tab at the top of the page.
 ---
