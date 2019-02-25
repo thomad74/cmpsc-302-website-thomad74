@@ -6,7 +6,7 @@ section: about
 intro_paragraph: |
   Chill JamZ is a radio talkshow that provides humorous segments about the happenings at Allegheny College. Additionally, our hosts play music that can be listened to while doing homework, trying to fall asleep, or just relax; hence the name 'Chill JamZ'. If you would like to tune into our show, click the following link to [Listen Live](http://www.warcmeadville.org/listen-live.html).
 ---
-Chill JamZ airs on Tuesday mornings at midnight, and last until about 1 am.
+Chill JamZ airs on Tuesday mornings at midnight, and lasts until about 1 am.
 
 ### Show Breakdown
 
