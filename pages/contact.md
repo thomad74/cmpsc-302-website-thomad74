@@ -6,10 +6,9 @@ section: contact
 intro_paragraph: |-
 
   The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+  [Formspree](https://formspree.io/chilljamz903@gmail.com) to process
+  submissions. Fill out the form to contact us regarding show details, comments
+  or concerns, suggestions, or anything you want to say to our team.
 ---
 
 **Send us a message**

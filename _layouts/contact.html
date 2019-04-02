@@ -8,4 +8,13 @@ layout: default
 
 {{ content }}
 
-{% include contact-form.html %}
+<!-- {% include contact-form.html %} -->
+
+<form action="https://formspree.io/chilljamz903@gmail.com" method="POST">
+  <input type="hidden" name="_next" value="https://chilljamz.netlify.com/contact"/>
+  <label>Name</label>
+  <input type="text" name="name"><br>
+  <label>Email</label>
+  <input type ="email" name="_replyto"><br><br>
+  <label>Comments or Concerns?</label>
+  <input name="city"><br><br>
