@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The most recent post so far
-author: john_doe
-date: '2018-07-19 10:07:32'
+title: Previous Episodes
+author: dillon_thoma
+date: '2019-04-2 10:31:32'
 intro_paragraph: ''
 categories: misc
 ---
