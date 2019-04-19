@@ -9,4 +9,5 @@ intro_paragraph: >
   people laugh and playing good music. We construct episodes of our show on the spot
   and provide entertainment through our improvised thoughts. To learn more, click the
   [About](https://chilljamz.netlify.com/about) tab at the top of the page.
+  ![Caricature](/assets/img/uploads/caricature.jpg)
 ---
