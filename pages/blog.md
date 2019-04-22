@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: Previous Shows
+title: More Information
 permalink: /blog
 section: blog
 intro_paragraph: >
-  Welcome to the page that contains all of our previous shows that we recorded!
-  You can click the links at the bottom to be redirected to a Google Drive folder
-  that contains all of our shows for people to listen to over and over again.
+  Welcome to the page that contains more information about our show. If you click
+  on the links, you can find a Google Drive folder with all previous episodes,
+  learn more about the hosts, learn more about the show, and see a picture of the hosts.
 ---
