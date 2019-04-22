@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hosts Bios
+title: Host Bios
 author: dillon_thoma
 date: 2019-03-18T00:12:57.000Z
 intro_paragraph: ''
