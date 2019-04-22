@@ -7,3 +7,4 @@ categories: misc
 ---
 
 ![The Hosts](/assets/img/uploads/chilljamz.jpg)
+From left to right: Intern Ben, E-Money, DJ Fingerma, T-Mobile
